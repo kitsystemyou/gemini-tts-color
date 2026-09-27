@@ -22,7 +22,7 @@ PORT="${PORT:-8000}"
 export GOOGLE_GENAI_USE_VERTEXAI="false"
 
 echo "=========================================================="
-echo "  Gemini TTS Studio を起動しています..."
+echo "  Gemini TTS Colors を起動しています..."
 echo "  URL: http://${HOST}:${PORT}"
 echo "=========================================================="
 

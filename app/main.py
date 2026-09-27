@@ -14,7 +14,7 @@ from app.gemini_tts import TTSRequest, TTSResponse, generate_speech
 load_dotenv()
 
 app = FastAPI(
-    title="Gemini TTS Studio",
+    title="Gemini TTS Colors",
     description="Gemini API を利用した高度な音声合成 Web アプリケーション",
     version="1.0.0",
 )

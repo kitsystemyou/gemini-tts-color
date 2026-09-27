@@ -1,4 +1,4 @@
-# Gemini TTS Studio
+# Gemini TTS Colors
 
 Google Gemini 3.8 / 3.x 世代のネイティブ音声合成（TTS: Text-to-Speech）モデルを活用した、高機能かつ直感的な Web アプリケーションです。
 

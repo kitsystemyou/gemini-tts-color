@@ -1,5 +1,5 @@
 /**
- * Gemini TTS Studio - フロントエンド制御スクリプト
+ * Gemini TTS Colors - フロントエンド制御スクリプト
  */
 
 document.addEventListener("DOMContentLoaded", () => {
