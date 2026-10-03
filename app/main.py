@@ -48,8 +48,8 @@ AVAILABLE_MODELS = [
         "recommended": False,
     },
     {
-        "id": "gemini-3.8-flash",
-        "name": "Gemini 3.8 Flash (Custom TTS)",
+        "id": "gemini-3.8-flash-tts",
+        "name": "Gemini 3.8 Flash TTS",
         "description": "最新の Gemini 3.8 フラッシュモデルによる音声生成テスト",
         "recommended": False,
     },
