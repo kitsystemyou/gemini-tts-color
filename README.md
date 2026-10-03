@@ -58,7 +58,8 @@ Gemini TTS がネイティブ認識する演出タグをワンクリックでカ
 
 1. **リポジトリに移動**
    ```bash
-   cd /home/minatosingull/ghq/github.com/kitsystemyou/gemini-tts-color
+   git clone git@github.com:kitsystemyou/gemini-tts-color.git
+   cd gemini-tts-color
    ```
 
 2. **起動スクリプトの実行**
